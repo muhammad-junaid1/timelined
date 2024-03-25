@@ -2,6 +2,9 @@
 
 Track your FAST NUCES classes in real time with a weekly timeline.
 
+Link to Frontend: https://github.com/muhammad-junaid1/timelined-frontend/tree/main. 
+Link to Backend: https://github.com/muhammad-junaid1/timelined-backend/tree/main
+
 ## **Features**
 
 1. Class Schedules: Enter your batch/department and section to see the timeline of your classes.
